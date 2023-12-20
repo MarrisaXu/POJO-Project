@@ -1,0 +1,19 @@
+{
+  "name": "pojoproject",
+  "version": "1.0.0",
+  "description": "pojo project",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha || exit 0"
+  },
+  "keywords": [
+    "pojo",
+    "project"
+  ],
+  "author": "Marisa",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
